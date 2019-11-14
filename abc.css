@@ -9,7 +9,7 @@
     color: white;
     
   }
-  
+  @media only screen and (min-width: 760px) {
  
   .top-right {
     position: absolute;
@@ -23,7 +23,7 @@
     bottom: 8px;
     right: 16px;
   }
-  
+}
   
   .abcimg1{
 width:400px;
